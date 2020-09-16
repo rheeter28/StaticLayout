@@ -1,0 +1,118 @@
+
+
+.purple {
+    
+    background-image: url(03-Assets/gradient-violet-bg.jpg); 
+    background-repeat: no-repeat;
+    background-size: 120%;
+    
+
+}
+
+
+.container {
+    display:flex;
+    justify-content: flex-end;
+    margin-right: 2%;
+    margin-top: -3%;    
+}
+
+.about {
+    box-sizing: border-box;
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+    
+}
+
+.help {
+     
+    
+    color: white;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.community{
+    
+    color:white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.openKastButton {
+    
+    font-size: 20px;
+    color:white;
+    border:solid;
+    background: transparent;
+    cursor: pointer;
+    
+    
+}
+
+img.kastImage { 
+   
+    max-height: 3rem;
+    
+
+} 
+
+img.laptop{
+    max-height: 350px;
+    margin-top: 10%;
+    margin-left: 30%;
+    top: 500px;
+
+    
+
+}
+
+       
+
+
+h3 {
+font-family: 'Roboto' 'sans-serif';
+ font-size: 30px;
+ color: white;
+}
+
+.kast{
+    margin-left: 45%;
+    
+    border: 4px;
+}
+
+.publications {
+    
+    margin-top: 10%;
+    max-height: 1rem;
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr ;
+    grid-gap: 45px;
+    column-gap: 5px;
+    margin-left: 25%;
+    
+}
+h2 {
+    font-family:'Roboto' 'sans-serif';
+    text-align: center;
+    color: white;
+    margin-right: 5%;
+    
+}
+
+p {
+    font-family: 'Roboto''sans-serif';
+    text-align: center;
+    color: white;
+}
+
+.wired-logo {
+
+}
+
+.nerdist-logo{
+    max-height: 1rem;
+}
